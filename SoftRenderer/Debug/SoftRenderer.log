@@ -1,0 +1,7 @@
+﻿  GSoftRenderer.cpp
+c:\users\ujung\desktop\softrenderer\softrenderer\graphix\gtriangle.h(19): warning C4101: 'middle2': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  SoftRenderer.vcxproj -> C:\Users\ujung\Desktop\SoftRenderer\Debug\SoftRenderer.exe
+  SoftRenderer.vcxproj -> C:\Users\ujung\Desktop\SoftRenderer\Debug\SoftRenderer.pdb (Partial PDB)
